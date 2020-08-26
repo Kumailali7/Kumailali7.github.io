@@ -1,0 +1,48 @@
+body
+{
+	background: url("images/Zinc.jpg") no-repeat fixed center;
+	background-size: cover;
+}
+
+.nav-link
+{
+    font-weight: 600;
+    margin-right: 50px;
+	margin-right: 50px;
+}
+.links
+{
+	padding-right: 50px;
+	display: inline-block;
+	font-weight: 800;
+    font-size: 20px;
+    color: black;
+}
+#div2
+{
+	margin-top: 70px;
+}
+.jumbotron
+{
+	background: none;
+	font-weight: 600;
+    text-align: center;
+    margin-top: 15%;
+}
+#h1
+{
+	font-size:60px;
+	color: darkblue;
+	font-weight: 600;
+    text-shadow: 0 0 3px black;
+}
+#hr
+{
+	width: 100%;
+	float: left;
+}
+#linkul
+{
+	display: inline-block;
+	list-style-type: none;
+}

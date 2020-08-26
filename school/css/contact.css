@@ -1,0 +1,38 @@
+body
+{
+	text-align:center;
+}
+
+.container
+{
+	margin-top: 70px;
+}
+
+li	
+{
+	list-style: none;
+	padding-right: 40px;
+}
+
+#cardfooter
+{
+	color: white;
+	padding-top: 20px;
+	margin-bottom: 10px;
+	margin-top: 0;
+}
+
+#nav
+{
+/*	text-align:left;*/
+}
+
+#collapsibleNavbar
+{
+	
+}
+
+#links
+{
+	margin-right: 20px;
+}

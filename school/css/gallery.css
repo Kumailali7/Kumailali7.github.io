@@ -1,0 +1,33 @@
+body
+{
+	
+}
+
+.nav-link
+{
+	margin-right: 50px;
+	margin-right: 50px;
+}
+
+#jumbotron
+{
+	margin-top: 70px;
+	background: url("images/royal.jpg") no-repeat fixed center;
+	font-weight:800;
+	text-align:center;
+	
+	color:black;
+	background:purple;
+}
+
+#jumbotron h1
+{
+	font-weight: 600;
+	font-size: 40px;
+}
+
+#nav
+{
+	margin-bottom: 70px;
+	background: purple;
+}

@@ -1,0 +1,55 @@
+body
+{
+	background: url("images/banner1.jpg") no-repeat fixed center;
+	background-size: cover;
+}
+
+#toplinks
+{
+	display:inline-block;
+}
+
+.nav-link
+{
+	color: black;
+	font-weight: 600;
+	margin-right: 50px;
+	margin-right: 50px;
+}
+#div2
+{
+	margin-top: 70px;
+}
+.jumbotron
+{
+	background: none;
+}
+#h1
+{
+	font-size:60px;
+	color: black;
+	font-weight: 600;
+	/*border: 2px solid red;*/
+	padding-left: 50px;
+	text-shadow: 0 0 3px black;
+}
+#hr
+{
+	width: 700px;
+	margin-right: 1000px;
+	padding-right: 50px;
+	/*border: 2px solid purple;*/
+	float: left;
+}
+#links
+{
+	padding-left: 50px;
+	display: inline-block;
+	font-weight: 800;
+	font-size: 20px;
+}
+#linkul
+{
+	display: inline-block;
+	list-style-type: none;
+}

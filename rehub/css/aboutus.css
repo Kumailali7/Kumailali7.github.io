@@ -1,0 +1,25 @@
+body
+{
+	
+}
+.card-body
+{
+	color: black;
+}
+.card
+{
+	background: none;
+}
+#jumbo
+{
+	margin-top: 70px;
+	text-align:center;
+	font-weight: 500;
+	color: white;
+}
+.nav-link
+{
+    font-weight: 600;
+	margin-right: 50px;
+	margin-right: 50px;
+}
