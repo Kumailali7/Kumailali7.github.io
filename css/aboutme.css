@@ -12,13 +12,15 @@ body
 }
 #jumbo
 {
-	margin-top: 70px;
+	margin-top: 5%;
 	text-align:center;
 	font-weight: 500;
 	color: white;
 }
 .nav-link
 {
+	font-weight: 600;
+	width: 100%;
 	margin-right: 50px;
-	margin-right: 50px;
+	text-align: center;
 }

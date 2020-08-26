@@ -5,34 +5,29 @@ body
 
 .container
 {
-	margin-top: 70px;
+	margin-top: 5%;
 }
 
 li	
 {
 	list-style: none;
-	padding-right: 40px;
 }
-
+.links
+{
+	margin-right: 1%;
+}
+.nav-link
+{
+	width: 100%;
+	text-align: center;
+	color: black;
+	font-weight: 600;
+	margin-right: 50px;
+}
 #cardfooter
 {
 	color: white;
-	padding-top: 20px;
-	margin-bottom: 10px;
+	padding-top: 1%;
+	margin-bottom: 1%;
 	margin-top: 0;
-}
-
-#nav
-{
-/*	text-align:left;*/
-}
-
-#collapsibleNavbar
-{
-	
-}
-
-#links
-{
-	margin-right: 20px;
 }

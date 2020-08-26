@@ -1,10 +1,17 @@
+body
+{
+	height: 100vh;
+}
 .jumbotron
 {
 	text-align:center;
 }
 .nav-link
 {
-	margin-right: 50px;
+	width: 100%;
+	text-align: center;
+	color: black;
+	font-weight: 600;
 	margin-right: 50px;
 }
 #cardtitle
@@ -17,10 +24,8 @@
 {
 	color: white;
 	font-weight: 400;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 1%;
 	text-align:center;
-	height: 10px;
 }
 
 #form

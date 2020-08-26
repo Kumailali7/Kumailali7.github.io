@@ -1,11 +1,14 @@
 body
 {
-	
+	height: 100vh;
 }
 
 .nav-link
 {
-	margin-right: 50px;
+	width: 100%;
+	text-align: center;
+	color: black;
+	font-weight: 600;
 	margin-right: 50px;
 }
 

@@ -10,15 +10,18 @@ body
 {
 	background: none;
 }
+.nav-link
+{
+	width: 100%;
+	text-align: center;
+	color: black;
+	font-weight: 600;
+	margin-right: 50px;
+}
 #jumbo
 {
-	margin-top: 70px;
+	margin-top: 5%;
 	text-align:center;
 	font-weight: 500;
 	color: white;
-}
-.nav-link
-{
-	margin-right: 50px;
-	margin-right: 50px;
 }
