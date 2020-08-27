@@ -1,6 +1,6 @@
 body
 {
-	background: url("images/Frost.jpg") no-repeat fixed center;
+	background: url("images/Lawrencium.jpg") no-repeat fixed center;
 	height: 100vh;
 	background-size: cover;
 }
@@ -26,7 +26,7 @@ body
 }
 .jumbotron
 {
-	background: white;
+	background: url("images/zinc.jpg") no-repeat fixed center;
 	font-weight: 600;
     text-align: center;
     margin-top: 15%;
