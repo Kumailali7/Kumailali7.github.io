@@ -1,0 +1,75 @@
+body
+{
+	background: url("images/Frost.jpg") no-repeat fixed center;
+	background-size: cover;
+	height: 100vh;
+	/* background-attachment: fixed; */
+}
+.navbar
+{
+	background: #00112d;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+.jumbotron
+{
+	background: none;
+	background-attachment: fixed;
+	position: fixed;
+}
+.nav-link
+{
+	width: 100%;
+	text-align: center;
+	margin-right: 50px;
+	color: white;
+}
+#navhead
+{
+	color: white;
+	font-weight: 600;
+}
+
+#toplinks
+{
+	display:inline-block;
+}
+
+#h1
+{
+	font-size:60px;
+	color: black;
+	font-weight: 600;
+	/*border: 2px solid red;*/
+	padding-left: 50px;
+	text-shadow: 0 0 3px black;
+}
+#hr
+{
+	width: 700px;
+	margin-right: 1000px;
+	padding-right: 50px;
+	/*border: 2px solid purple;*/
+	float: left;
+}
+#links
+{
+	padding-left: 50px;
+	display: inline-block;
+	font-weight: 800;
+	font-size: 20px;
+}
+#linkul
+{
+	display: inline-block;
+	list-style-type: none;
+}
+#link
+{
+	padding-left: 50%;
+}
+#h1
+{
+	color: white;
+	text-shadow: 0 0 3px black;
+}

@@ -1,0 +1,46 @@
+button
+{
+	margin-top: 32px;
+	margin-left: 40px;
+}
+label
+{
+	color: white;
+	font-weight: 400;
+}
+i
+{
+	color: white;
+}
+form
+{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left:25%;
+}
+body
+{
+	background: url("images/royal.jpg");
+}
+
+.container
+{
+	margin-top: 70px;
+}
+
+#cardtitle
+{
+	text-align:center;
+	font-weight: 400;
+	color: white;
+}
+#cardfooter
+{
+	text-align:center;
+	font-weight: 400;
+	color: white;
+}
+#navlink
+{
+	margin-right: 50px;
+}

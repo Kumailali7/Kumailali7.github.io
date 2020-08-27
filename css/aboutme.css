@@ -10,6 +10,13 @@ body
 {
 	background: none;
 }
+.nav-link
+{
+	font-weight: 600;
+	width: 100%;
+	margin-right: 50px;
+	text-align: center;
+}
 #jumbo
 {
 	margin-top: 10%;
@@ -17,10 +24,8 @@ body
 	font-weight: 500;
 	color: white;
 }
-.nav-link
+img
 {
-	font-weight: 600;
-	width: 100%;
-	margin-right: 50px;
-	text-align: center;
+	width: 30%;
+	height: 100%;
 }

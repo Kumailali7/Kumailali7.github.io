@@ -1,0 +1,41 @@
+body
+{
+	background: black;
+}
+table
+{
+	margin-top: 2%;
+}
+.container
+{
+	margin-top: 10%;
+	
+}
+.jumbotron
+{
+	text-align: center;
+	background: url("images/royal.jpg") no-repeat fixed center;
+	color: white;
+	font-weight: 600;
+	margin-bottom: 0
+}
+.navbar
+{
+	background: #00112d;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+.nav-link
+{
+	width: 100%;
+	text-align: center;
+	margin-right: 50px;
+	color: white;
+}
+#navhead
+{
+	margin-left: 10px;
+	margin-right: 20px;
+	color: white;
+	font-weight: 600;
+}

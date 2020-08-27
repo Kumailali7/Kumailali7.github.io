@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/login.css">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript" src="js/popper.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div>
+		<nav class="navbar  navbar-expand-sm bg-info navbar-light fixed-top">
+		<div class="navbar-header">
+			<a href="#" name="top" class="navbar-brand"><img src="72397.jpg" alt="logo" style="width:40px; padding-right: 3px;">Navbar brand</a>
+
+			<!-- Toggler/collapsibe Button -->
+  		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    		<span class="navbar-toggler-icon"></span>
+  		</button>
+
+		</div>
+		<div class="collapse navbar-collapse" id="collapsibleNavbar">
+			<ul class="navbar-nav nav-pills">
+				<li class="nav-item"><a class="nav-link" id="navlink" href="index.html">Home</a></li>
+				<li class="nav-item"><a class="nav-link" id="navlink" href="aboutus.html">About Us</a></li>
+				<li class="nav-item"><a class="nav-link" id="navlink" href="gallery.html">Gallery</a></li>
+
+				<!-- Dropdown -->
+    			<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+    				Dropdown link</a>
+      				<div class="dropdown-menu">
+        				<a class="dropdown-item" href="#">Dropdown Link 1</a>
+        				<a class="dropdown-item" href="#">Dropdown Link 2</a>
+        				<a class="dropdown-item" href="#">Dropdown Link 3</a>
+      				</div>
+    			</li>
+			</ul>
+
+			<ul class="navbar-nav ml-auto nav-pills">
+				<li class="nav-item "><a class="nav-link " href="signup.html">Sign up<i class="fa fa-user-plus" style="margin-left:3px; color: white;"></i></a></li>
+				<li class="nav-item"><a class="nav-link active bg-success" href="#">Login<i class="fa fa-user" style="margin-left:3px; color: white;"></i></a></li>
+				<ul class="navbar-nav ml-auto nav-pills">
+				<li class="nav-item " style="margin-left: 3px;"><a class="nav-link active bg-danger" href="contact.html"><i class="fa fa-phone" style="margin-right:3px; color: white;"></i>Contact Us</a></li>
+			</ul>
+			</ul>
+		</div>
+	</nav>
+	</div>
+
+	<div class="container">
+			<div class="card-header bg-info"><h1 class="card-title bg-info" id="cardtitle">Login</h1></div>
+			<div class="body">
+				<form>
+  					<div class="form-row">
+    					<div class="form-group col-md-4 ">
+    						<i class=" fa fa-user" ></i>
+      						<label for="inputEmail">Email</label>
+      						<input type="email" class="form-control" id="inputEmail" placeholder="email@mail.com"  required>
+    					</div>
+    					<div class="form-group col-md-4">
+    						<i class="fa fa-lock"></i>
+      						<label for="inputPassword1">Password</label>
+      						<input type="password" class="form-control" id="inputPassword1" placeholder="**********" required>
+    					</div>
+    					<div class="col-md-4"><button type="submit" class="btn btn-primary">Sign In</button></div>
+				</form>
+			</div>
+			<div class="card-footer bg-info" id="cardfooter"><p>Company Name <i class="fa fa-copyright"></i></p></div>
+		</div>	
+<script type="text/javascript" src="js/template.js"></script>
+</body>
+</html>

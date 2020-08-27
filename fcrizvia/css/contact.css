@@ -1,0 +1,56 @@
+body
+{
+	text-align:center;
+	/*background: url("images/royal.jpg");*/
+	background: black;
+}
+li	
+{
+	list-style: none;
+}
+.container
+{
+	margin-top: 7%;
+}
+.body
+{
+	background: black;
+	color: white;
+	font-weight: 600;
+}
+#cardtitle
+{
+	color: white;
+	font-weight: 600;
+	margin-top: 5%;
+	background: #00112d;
+}
+
+#cardfooter
+{
+	color: white;
+	font-weight: 600;
+	text-align:center;
+}
+.navbar
+{
+	background: #00112d;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+.nav-link
+{
+	width: 100%;
+	text-align: center;
+	margin-right: 50px;
+	color: white;
+}
+#navhead
+{
+	color: white;
+	font-weight: 600;
+}
+#hr
+{
+	color: white;
+}
