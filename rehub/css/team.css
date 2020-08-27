@@ -1,0 +1,53 @@
+body
+{
+	background: black;	
+}
+h5
+{
+	color: white;
+}
+.container
+{
+	margin-top: 7%;
+	text-align:center;
+}
+.thumbnail
+{
+	margin-top: 1%;
+}
+
+.navbar
+{
+	background: #00112d;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+.nav-link
+{
+	width: 100%;
+	text-align: center;
+	margin-right: 50px;
+	color: white;
+}
+.jumbotron
+{
+	background: url("images/royal.jpg") no-repeat fixed center;
+	background-color: rgb(0, 0, 43);
+	font-weight:800;
+	color: white;
+	text-align:center;
+}
+.body
+{
+    text-align: center;
+}
+.image
+{
+	height: 250px;
+	width: 250px;
+}
+#jumbotron h1
+{
+	font-weight: 600;
+	font-size: 40px;
+}
